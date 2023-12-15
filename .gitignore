@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+cache_files
+/.venv/
+/.idea/
+.env
+*.bak
+*.log
+
